@@ -1,6 +1,6 @@
 case $(ulimit -u) in
 
-Automatic configuration for Gunicorn's Workers setting.
+# Automatic configuration for Gunicorn's Workers setting.
 
 Standard-1X (+Free, +Hobby) Dyno
 256)
